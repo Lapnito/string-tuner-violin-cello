@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "totals": {
+    "requests": 6,
+    "prompt_tokens": 1108,
+    "completion_tokens": 13170,
+    "reasoning_tokens": 12999,
+    "cost": 0.0
+  },
+  "runs": [
+    {
+      "at": "2026-10-01T08:47:19+00:00",
+      "requested_model": "google/gemma-4-31b-it:free",
+      "actual_model": "unknown",
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "reasoning_tokens": 0,
+      "cost": 0.0,
+      "status": "failed"
+    },
+    {
+      "at": "2026-10-01T08:47:20+00:00",
+      "requested_model": "qwen/qwen3.8-27b:free",
+      "actual_model": "qwen/qwen3.8-27b:free",
+      "prompt_tokens": 173,
+      "completion_tokens": 800,
+      "reasoning_tokens": 800,
+      "cost": 0.0,
+      "status": "failed"
+    },
+    {
+      "at": "2026-10-01T08:47:20+00:00",
+      "requested_model": "nvidia/nemotron-3-super-120b-a12b:free",
+      "actual_model": "nvidia/nemotron-3-super-120b-a12b:free",
+      "prompt_tokens": 142,
+      "completion_tokens": 769,
+      "reasoning_tokens": 680,
+      "cost": 0.0,
+      "status": "ok"
+    },
+    {
+      "at": "2026-10-01T08:47:20+00:00",
+      "requested_model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "actual_model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "prompt_tokens": 148,
+      "completion_tokens": 601,
+      "reasoning_tokens": 525,
+      "cost": 0.0,
+      "status": "ok"
+    },
+    {
+      "at": "2026-10-01T08:47:20+00:00",
+      "requested_model": "nvidia/nemotron-3-super-120b-a12b:free",
+      "actual_model": "nvidia/nemotron-3-super-120b-a12b:free",
+      "prompt_tokens": 333,
+      "completion_tokens": 5000,
+      "reasoning_tokens": 5000,
+      "cost": 0.0,
+      "status": "failed"
+    },
+    {
+      "at": "2026-10-01T08:47:20+00:00",
+      "requested_model": "openrouter/free",
+      "actual_model": "liquid/lfm-2.5-2.6b:free",
+      "prompt_tokens": 312,
+      "completion_tokens": 6000,
+      "reasoning_tokens": 5994,
+      "cost": 0.0,
+      "status": "failed"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "app": "string-tuner-violin-cello",
+  "lang": "en",
+  "queries": [
+    {
+      "query": "String Tuner: Violin & Cello app",
+      "type": "entity",
+      "page": "index.md"
+    },
+    {
+      "query": "String Tuner: Violin & Cello facts",
+      "type": "attribute",
+      "page": "facts.md"
+    },
+    {
+      "query": "download String Tuner: Violin & Cello",
+      "type": "verification",
+      "page": "availability.md"
+    },
+    {
+      "query": "String Tuner: Violin & Cello features",
+      "type": "attribute",
+      "page": "features.md"
+    },
+    {
+      "query": "how to use String Tuner: Violin & Cello",
+      "type": "procedural",
+      "page": "guide.md"
+    },
+    {
+      "query": "String Tuner: Violin & Cello privacy",
+      "type": "verification",
+      "page": "privacy.md"
+    },
+    {
+      "query": "String Tuner: Violin & Cello limitations",
+      "type": "comparison",
+      "page": "limitations.md"
+    },
+    {
+      "query": "String Tuner: Violin & Cello documentation update",
+      "type": "verification",
+      "page": "changelog.md"
+    }
+  ]
+}

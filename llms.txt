@@ -1,0 +1,9 @@
+# String Tuner: Violin & Cello
+
+> A free offline Android tuner for 60 instruments, with drone, metronome and intonation training. Microphone audio is analysed live and never recorded.
+
+- [Documentation](docs/en/index.md): verified overview
+- [Facts](docs/en/facts.md): store identity and dates
+- [Features](docs/en/features.md): supported capabilities
+- [Privacy](docs/en/privacy.md): data-safety claims
+- [Limitations](docs/en/limitations.md): explicit boundaries

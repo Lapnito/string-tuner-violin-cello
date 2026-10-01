@@ -1,0 +1,43 @@
+{
+  "app": "string-tuner-violin-cello",
+  "facts": {
+    "store_listing": {
+      "value": "Tune viola, bass & orchestra · Drone · Tempo · Intonation trainer",
+      "source": "https://play.google.com/store/apps/details?id=com.tomas.string_tuner"
+    },
+    "privacy": {
+      "value": "The listing says microphone audio is analysed live and never recorded; no account, analytics or servers are used. Google Play declares no data collected or shared.",
+      "source": "https://play.google.com/store/apps/details?id=com.tomas.string_tuner"
+    },
+    "limitations": {
+      "value": "A phone tuner is a practice aid. Room noise, microphone quality and playing technique can affect detection.",
+      "source": "https://play.google.com/store/apps/details?id=com.tomas.string_tuner"
+    }
+  },
+  "features": [
+    {
+      "name": "Tuning profiles for 60 instruments, including bowed, plucked, wind and world instruments",
+      "source": "https://play.google.com/store/apps/details?id=com.tomas.string_tuner"
+    },
+    {
+      "name": "Reference pitch from 392 to 466 Hz and presets for 415, 442 and 443 Hz",
+      "source": "https://play.google.com/store/apps/details?id=com.tomas.string_tuner"
+    },
+    {
+      "name": "Drone, tanpura, shruti box, metronome, tuning fork and pitch pipe",
+      "source": "https://play.google.com/store/apps/details?id=com.tomas.string_tuner"
+    },
+    {
+      "name": "Intonation trainer with scale practice and sharp-or-flat heatmap",
+      "source": "https://play.google.com/store/apps/details?id=com.tomas.string_tuner"
+    },
+    {
+      "name": "Stand mode and teacher mode with QR setup sharing",
+      "source": "https://play.google.com/store/apps/details?id=com.tomas.string_tuner"
+    },
+    {
+      "name": "Live on-device microphone analysis without recording",
+      "source": "https://play.google.com/store/apps/details?id=com.tomas.string_tuner"
+    }
+  ]
+}
